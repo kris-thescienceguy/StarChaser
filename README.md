@@ -8,6 +8,10 @@ The software and digital electronics were produced by **Kris Turner**, who was a
 
 *A special mention must be made to the entirety of the Keele Observatory volunteers without who there would be no dome to upgrade.*
 
+## Project Overview ##
+
+![Schematic diagram of project](docs/diagram.png)
+
 ## Wiring Specifications ##
 The system has several parts which may need to replaced over time so for ease of use a wiring colour chart has been produced. This should be used in conjunction with wiring diagrams provided.
 
