@@ -15,4 +15,4 @@ The third input, the home switch, is attached to P2 configured as an external in
 
 The board communicates with the controller chip using a software half-duplex serial UART based on a design by Ralph Doncaster which allows only one pin on the ATTiny to be used to both send and receive data. The library compiles to only 62 bytes of memory which is perfect due to the limited memory available on the microcontroller. A more indepth description of the circuit is available from http://nerdralph.blogspot.com/2014/01/avr-half-duplex-software-uart.html.
 
-Two status LED's indicate the rotation direction of the dome as measured by the encoders.
+One status LED's indicate that the dome is moving as measured by the encoders.
